@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Programador Junior, o que as empresas esperam que tu saiba",
+          "url": "https://www.youtube.com/watch?v=WPTQ8fZ0aQk"
         },
         {
           "titulo": "SEO com React",
@@ -40,7 +40,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -66,7 +66,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -108,8 +108,8 @@
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Jogador Nº 1",
+          "url": "https://www.youtube.com/watch?v=q_1OJNcTld0"
         },
         {
           "titulo": "A Chegada",
@@ -130,8 +130,12 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Need for Speed Most Wanted",
+          "url": "https://www.youtube.com/watch?v=DEmRkNnCvLU"
         },
         {
           "titulo": "Assassins Creed Valhalla",
@@ -142,11 +146,7 @@
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "titulo": "League of Legends",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
